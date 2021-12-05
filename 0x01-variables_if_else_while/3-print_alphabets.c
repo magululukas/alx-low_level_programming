@@ -6,7 +6,7 @@
  *
  * Return: zero always
  */
-char main(void)
+int main(void)
 {
 	char ALP;
 
