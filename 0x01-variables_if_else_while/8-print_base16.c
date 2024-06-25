@@ -1,6 +1,7 @@
 #include <stdio.h>
+/*main: fuction displays headecimals only.*/
 
-int main()
+int main(void)
 {
 	int figures;
 	char letters;
@@ -10,5 +11,5 @@ int main()
 	for (letters = 'a'; letters <= 'f'; letters++)
 		putchar(letters);
 	putchar('\n');
-	return 0;
+	return (0);
 }

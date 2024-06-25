@@ -1,18 +1,14 @@
 #include <stdio.h>
-/**
- *  * main - Starts Here!
- *   *
- *    * putchar - For printing text
- *     *
- *      * Return: zero always
- *       */
+/*main: function does it all. */
 int main(void)
 {
 	int n;
-	for(n=0;n<=9;n++)
+
+	for(n = 0;n <= 9;n++)
 	{
 		printf("%d",n);
-		printf("\n");
 	}
+		printf("\n");
+
 	return (0);
 }
