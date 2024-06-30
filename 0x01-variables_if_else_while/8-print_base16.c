@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*main: fuction displays headecimals only.*/
+/**
+ * main - fuction displays headecimals only.
+ *
+ * Return: Zero always
+ */
 
 int main(void)
 {

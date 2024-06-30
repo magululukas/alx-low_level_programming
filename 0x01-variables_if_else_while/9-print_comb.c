@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*main func: uses putchar to disply output*/
+/**
+ * main - func uses putchar to disply output
+ *
+ * Return: its zero
+ */
 int main(void)
 {
 	int a;
